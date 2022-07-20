@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mapis
+- 👋 Hi, I’m @Map1s
 - 👀 I’m interested in IOS Dev
 - 🌱 I’m currently studing Swift/IOS Dev
 - 💞️ I’m looking to collaborate on Mobile App
